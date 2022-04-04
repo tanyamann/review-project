@@ -6,14 +6,16 @@
      }
    
    body {
-    background-color: #867082;
+    /* background-color: #867082; */
+    background-image: url('../styles/flower-g12950fae5_1920.jpg');
+    background-size: cover;
      justify-content: center;
      align-items: center;
      display: flex;
      min-height: 100vh;
        }
 .box {
-    background-color: #c8c7c9;
+    background-color: #bfade3;
     padding-left: 60px;
     padding: 60px;
     border-radius: 25px;
